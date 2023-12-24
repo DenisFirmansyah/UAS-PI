@@ -64,6 +64,7 @@ public class CodesCracker{
 ![image](https://github.com/DenisFirmansyah/UAS-PI/assets/121292416/2de4b9ee-0908-4d60-bb3d-32442224059a)
 
 ## Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
+![image](https://github.com/DenisFirmansyah/UAS-PI/assets/121292416/a4b6120c-9524-480d-a53b-51a038b23a8a)
 
 ## Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
 ![image](https://github.com/DenisFirmansyah/UAS-PI/assets/121292416/d3a1d4bc-0b2f-475e-9135-55d973a47f54)
@@ -80,6 +81,13 @@ public class CodesCracker{
 - Dokumen HTML ini bisa bersumber dari web server yang kita ingin datanya (Tokopedia, Wikipedia, Detik.com, dsb.) atau bisa juga dukumen HTML yang kita buat sendiri
 
 ## Mendemonstrasikan dan Menjelaskan Komponen Dari Contoh Uniform Resource Locator (URL) [v] ⭐⭐
+Menurut hostinger.co.id Uniform Resource Locator atau URL adalah alamat web yang mengarah ke website, halaman web, atau dokumen tertentu di internet. Alamat ini memungkinkan Anda mengakses informasi dari komputer atau lokasi online, seperti web server atau penyimpanan cloud.
+
+Struktur URL terbagi menjadi beberapa bagian, seperti contohnya https://www.hostinger.co.id/tutorial/apa-itu-url
+- Yang pertama yaitu https:// yang merupakan protokol
+- Lalu yang kedua www. adalah subdomain
+- Ketiga hostinger.co.id adalah nama domain dari link
+- Kemudian yang keempat /tutorial/apa-itu-url adalah Path/Halaman, dimana pathnya adalah /tutorial dan halamannya adalah /apa-itu-url
 
 ## Mencoba Pelacakan Informasi Server dari Alamat Domain [v] ⭐
 
@@ -202,6 +210,7 @@ Data tersebut dikutip dari primakara.ac.id
 ![image](https://github.com/DenisFirmansyah/UAS-PI/assets/121292416/523299ee-fd2a-4a1e-88d2-4e756cfdaf6a)
 
 ## Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
+![image](https://github.com/DenisFirmansyah/UAS-PI/assets/121292416/f0ba3651-9e4a-4f9e-a929-d03e720f14df)
 
 ## Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
 ![image](https://github.com/DenisFirmansyah/UAS-PI/assets/121292416/b7bc1d63-a2cd-4eda-94c3-9f90ca2bfbba)
