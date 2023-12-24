@@ -66,6 +66,7 @@ public class CodesCracker{
 ## Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
 
 ## Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
+![image](https://github.com/DenisFirmansyah/UAS-PI/assets/121292416/d3a1d4bc-0b2f-475e-9135-55d973a47f54)
 
 ## Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
 ![image](https://github.com/DenisFirmansyah/UAS-PI/assets/121292416/344b01c6-2c48-42dc-b85c-091dde91baaa)
@@ -153,6 +154,8 @@ Click me to display Date and Time.</button>
 ## Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
 
 ## Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v] ⭐⭐⭐⭐
+![image](https://github.com/DenisFirmansyah/UAS-PI/assets/121292416/1a53a5ee-2ae1-4db6-8816-1d0d1750a2b4)
+
 
 ## Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
 
@@ -201,6 +204,7 @@ Data tersebut dikutip dari primakara.ac.id
 ## Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
 
 ## Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
+![image](https://github.com/DenisFirmansyah/UAS-PI/assets/121292416/b7bc1d63-a2cd-4eda-94c3-9f90ca2bfbba)
 
 ## Eksplorasi Top Github Project yang Diminati ⭐⭐
 ![image](https://github.com/DenisFirmansyah/UAS-PI/assets/121292416/7f4f7587-70c9-40be-b85e-904fdbf2b9b3)
