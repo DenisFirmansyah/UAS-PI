@@ -186,6 +186,7 @@ Click me to display Date and Time.</button>
 ## Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐
 
 ## Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
+https://www.youtube.com/watch?v=yvJ1QF6foX8
 
 ## Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
 10 Pilihan pekerjaan dengan lulusan Teknik Informatika
@@ -203,6 +204,7 @@ Click me to display Date and Time.</button>
 Data tersebut dikutip dari primakara.ac.id
 
 ## Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
+![image](https://github.com/DenisFirmansyah/UAS-PI/assets/121292416/55685943-9ac4-4b04-8c6a-352167575860)
 
 ## Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐ 
 
@@ -219,6 +221,7 @@ Data tersebut dikutip dari primakara.ac.id
 ![image](https://github.com/DenisFirmansyah/UAS-PI/assets/121292416/7f4f7587-70c9-40be-b85e-904fdbf2b9b3)
 
 ## Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
+![image](https://github.com/DenisFirmansyah/UAS-PI/assets/121292416/01cf4e66-2aa7-4c23-a297-b6fbe2c1efe2)
 
 ## Membangun Profil Github Page ⭐⭐⭐⭐⭐
 
